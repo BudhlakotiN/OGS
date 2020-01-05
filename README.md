@@ -1,9 +1,9 @@
 # OGS
-Title: Outlier in Genomics Data
-Version: 0.1.0
-Author: Neeraj Budhlakoti, D C Mishra, Anil Rai and Rajeev Ranjan Kumar
-Maintainer: Neeraj Budhlakoti <neeraj35669@gmail.com>
-Description: Detection of influential observation is one of the crucial step of pre-processing to
+#Title: Outlier in Genomics Data
+#Version: 0.1.0
+#Author: Neeraj Budhlakoti, D C Mishra, Anil Rai and Rajeev Ranjan Kumar
+#Maintainer: Neeraj Budhlakoti <neeraj35669@gmail.com>
+#Description: Detection of influential observation is one of the crucial step of pre-processing to
 identify suspicious elements in data that may be due to error or some other unknown source. Several
 statistical measures are already developed for detectionof influential observation but still there
 is a challenge to detect a true influential observation for high dimension data like gene expression, 
